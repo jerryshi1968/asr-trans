@@ -1,0 +1,5 @@
+bin/
+obj/
+clean_build_test/
+appsettings.local.json
+installer/output/
