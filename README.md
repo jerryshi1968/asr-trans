@@ -3,7 +3,7 @@
 Win10/Win11 系统声音字幕小工具：采集默认扬声器输出，转成 16000Hz mono float 音频，送入项目内随附的 SenseVoice ASR 模块，再用 DeepSeek API 翻译成中文。
 
 ## 界面预览
-<video src="https://github.com/jerryshi1968/asr-trans/raw/main/docs/videos/for-github-compressed.mp4" controls="controls" width="100%"></video>
+<video src="https://github.com/user-attachments/assets/ae29cdaa-f7ab-481c-9ba7-e6c2bfad9356" controls="controls" width="100%"></video>
 
 ## 运行
 
