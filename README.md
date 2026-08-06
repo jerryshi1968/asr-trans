@@ -68,3 +68,11 @@ installer\SystemSubtitleTranslator.iss
 ```text
 %APPDATA%\SystemSubtitleTranslator\appsettings.local.json
 ```
+
+## 许可证
+
+本项目采用 GNU Affero General Public License v3.0（AGPL-3.0）许可证开源。
+
+你可以基于本项目进行学习、修改、分发、商业部署和提供付费技术服务；如果分发本软件或基于本软件提供网络服务，需要按照 AGPL-3.0 的要求公开对应源码并保留许可证声明。
+
+项目中使用的第三方组件和模型遵循其各自许可证，包括 NAudio、sherpa-onnx / ONNX Runtime、DeepSeek API，以及随项目保存的 Alife 相关 DLL。
